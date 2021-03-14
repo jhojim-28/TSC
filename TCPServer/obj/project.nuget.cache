@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ceV2/vHnyazZvxxAs8qPck0EFZf+UTXJKiRL9QUCCuGdFSvMlCsa5stxBL+m7LWGmfTPw35mYfQlV0IbgWchg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opali\\Downloads\\TCPClient\\TCPServer\\TCPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opali\\.nuget\\packages\\supersimpletcp\\2.4.0\\supersimpletcp.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
